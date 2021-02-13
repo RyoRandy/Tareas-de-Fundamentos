@@ -8,7 +8,7 @@ namespace Tareas_de_Fundamentos
         {
             char letra;
 
-            for (letra='z'; letra>='a'; letra--) {
+            for (letra='Z'; letra>='A'; letra--) {
                 Console.WriteLine("{0} ", letra);
             }
         }
