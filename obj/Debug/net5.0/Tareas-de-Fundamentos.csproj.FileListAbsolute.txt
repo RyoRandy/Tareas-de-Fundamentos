@@ -1,0 +1,15 @@
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/bin/Debug/net5.0/Tareas-de-Fundamentos.deps.json
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/bin/Debug/net5.0/Tareas-de-Fundamentos.runtimeconfig.json
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/bin/Debug/net5.0/Tareas-de-Fundamentos.runtimeconfig.dev.json
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/bin/Debug/net5.0/Tareas-de-Fundamentos.dll
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/bin/Debug/net5.0/ref/Tareas-de-Fundamentos.dll
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/bin/Debug/net5.0/Tareas-de-Fundamentos.pdb
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.csprojAssemblyReference.cache
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.AssemblyInfoInputs.cache
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.AssemblyInfo.cs
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.csproj.CoreCompileInputs.cache
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.dll
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/ref/Tareas-de-Fundamentos.dll
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.pdb
+/Users/randymejia/Desktop/Tareas-de-Fundamentos/obj/Debug/net5.0/Tareas-de-Fundamentos.genruntimeconfig.cache
