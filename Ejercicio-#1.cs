@@ -2,7 +2,7 @@
 
 namespace Tareas_de_Fundamentos
 {
-    class Program
+    class Ejercicio1
     {
         static void Main(string[] args)
         {
